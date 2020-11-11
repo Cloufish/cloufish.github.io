@@ -25,10 +25,8 @@ author: # change following line to your infomation.
   skill_icon1:
     - name: "icon-archlinux"
     - name: "fa-linux"
-    - name: "icon-script"
   skill_icon2:
-    - name: "fa-linux"
-    - name: "icon-archlinux"
+    - name: "icon-shell"
     - name: "icon-script"
   desc: An Enthusiast who wants to break into Cybersecurity  # Describe yourself.
 
