@@ -3,7 +3,7 @@
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: HTB
+- name: HTB/CTFs/VulnHub
   href: /htb/
 
 - name: Bug Bounty Hunting
@@ -12,8 +12,8 @@
 - name: Music
   href: /music/
 
-- name: Language Learning
-  href: /language-learning/
+- name: Useful Resources
+  href: /useful-resources/
 
 - name: Life
   href: /life/

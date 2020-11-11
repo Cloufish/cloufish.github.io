@@ -13,16 +13,16 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": " An Enthusiast who wants to break into Cybersecurity "
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
     "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "blackarch-zsh": "A Docker contenerized blackarch edition, with tweaks in shell and overall experience. With all tools that I'm using pre-installed with non-root user set up",
+    "worldwide-list": "A Curated List of ITSec Specialists. It promotes sharing your research/knowledge in your native-speaking language. Also, it is for language learners, who would want to immerse themselves even more. CONTRIBUTION IS NEEDED AND APPRECIATED! <3",
+    "bug-bounty-framework": "An Automation project to various Bug Bounty Hunting methodologies.The script also converts all of the results into Markdown document, giving you organised \'research\' environment."
   },
   "career":{
     "my_career": "My Career",

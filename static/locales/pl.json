@@ -1,0 +1,53 @@
+{
+  "website":{
+    "title": "Cloufish"
+  },
+  "nav":{
+    "home": "Strona Główna",
+    "about_me": "O mnie:",
+    "skills": "Umiejętności:",
+    "projects": "Projekty",
+    "career": "Kariera",
+    "blog": "Mój Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "O mnie:",
+    "des": "Pełen entuzjazmu gość chcący wejść w sektor ITSecurity/Pentestingu"
+  },
+  "skills":{
+    "my_skills": "Moje umiejętności:"
+  },
+  "projects":{
+    "my_projects": "Moje Projekty:",
+    "blackarch-zsh": "Skonteneryzowany system blackarch z ugodnieniami w powłoce systemu oraz w ogólnych doznaniach w użytkowaniu. Ze wszystkimi narzędziami, których używam na codzień i z użytkownikiem non-root ",
+    "bug-bounty-framework": "Projekt do Automatyzacji przeróżnych metodyk w Bug Bounty Huntingu. Skrypt również przekształca output do dokumentu Mardown .md, dając zorganizowane dane z możliwością robienia notatek",
+  },
+  "career":{
+    "my_career": "",
+    "nextcode": "",
+    "nextcode_des": "",
+    "nextcode_date": "",
+    "nextcode_job": "",
+    "netease": "",
+    "netease_des": "",
+    "netease_date": "",
+    "netease_job": "",
+    "ucloud": "",
+    "ucloud_des": "",
+    "ucloud_date": "",
+    "ucloud_job": "",
+    "college": "",
+    "college_des": "",
+    "college_date": "",
+    "college_job": ""
+  },
+  "blog":{
+    "my_blog": "Mój Blog:"
+  },
+  "link":{
+    "link": "",
+    "view": ""
+  }
+
+}

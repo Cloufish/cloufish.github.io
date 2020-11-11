@@ -4,19 +4,19 @@
 - name: blackarch-zsh
   i18n: blackarch-zsh
   gh_user: Cloufish
-  repo: blackarch-zsh
+  repo: dockerfiles
   img: /static/assets/img/landing/blackarch.png
   desc: A Docker contenerized blackarch edition, with tweaks in shell and overall experience. With all tools that I'm using pre-installed with non-root user set up
 
 - name: Awesome-Worldwide-ITSecurity-Specialists
-  i18n: Awesome-Worldwide-ITSecurity-Specialists
+  i18n: worldwide-list
   gh_user: Cloufish
   repo: Awesome-Worldwide-ITSecurity-Specialists
   img: /static/assets/img/landing/awesome.png
-  desc: A Curated List of ITSec Specialists. It promotes sharing your research/knowledge in your native-speaking language. Also, it is for language learners, who would want to immerse themselves even more
+  desc: A Curated List of ITSec Specialists. It promotes sharing your research/knowledge in your native-speaking language. Also, it is for language learners, who would want to immerse themselves even more. CONTRIBUTION IS NEEDED AND APPRECIATED! <3
 
 - name: bug-bounty-framework
   i18n: bug-bounty-framework
   url: https://github.com/Cloufish/bug_bounty_framework
   img: /static/assets/img/landing/markdown.png
-  desc: An Automation project to various Bug Bounty Hunting methodologies.The script alsso converts all of the results into Markdown document, giving you organised \'research\' environment.
+  desc: An Automation project to various Bug Bounty Hunting methodologies.The script also converts all of the results into Markdown document, giving you organised \'research\' environment.
